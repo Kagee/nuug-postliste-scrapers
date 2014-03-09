@@ -1,0 +1,4 @@
+#! /bin/sh
+# find . -name 'scraperwiki.sqlite' -exec ./integrity_check {} \; > integrity_check.log 2>&1
+echo -n "$1: "
+echo "PRAGMA integrity_check;" | sqlite3 $1
