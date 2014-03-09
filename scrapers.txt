@@ -1,0 +1,62 @@
+NUUG-run scrapers:
+None :(
+
+Recently run scrapers:
+postliste-oep
+postliste-universitetssykehuset-nord-norge
+postliste-nih
+postliste-ntnu
+postliste-mattilsynet
+postliste-storfjord
+postliste-oslo-gravferdsetaten
+postliste-difi
+postliste-ballangen
+postliste-stortinget
+postliste-hoegskolen-i-volda
+postliste-hoegskolen-i-nord-troendelag
+postliste-universitetet-i-stavanger
+postliste-oslo-bydel-ullern
+postliste-loppa-kommune
+postliste-sivilombudsmannen
+postliste-universitetet-i-agder
+postliste-oep-deliverydates
+postliste-npolar
+postliste-hadsel
+postliste-hoegskolen-i-finnmark
+postliste-mrfylke
+postliste-halden
+postliste-lenvik
+postliste-hvaler
+postliste-lier
+postliste-met
+postliste-naroy
+postliste-universitetet-i-oslo
+postliste-kafjord-kommune
+postliste-hoegskolen-i-gjoevik
+postliste-saltdal
+postliste-oslo-havn
+postliste-ruter
+postliste-hoegskolen-i-lillehammer
+postliste-hoegskolen-i-telemark
+
+Idle scrapers:
+postliste-kristiansund
+postlist-ssb
+postliste-python-lib-doculive
+postliste-sogne
+postliste-stavanger-universitetssjukehus
+postliste-oslo-radhusets-forvaltningstjeneste
+postliste-python-lib
+postliste-arendal
+postliste-bioforsk
+postliste-lindesnes
+postliste-luftambulanse
+postliste-hole
+postliste-vikna
+postliste-nrk
+postliste-nrk-textpos
+
+Never run:
+postliste-fredrikstad
+postliste-svv
+postliste-risr-kommune
