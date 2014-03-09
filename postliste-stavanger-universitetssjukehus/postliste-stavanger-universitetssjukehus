@@ -81,3 +81,6 @@ process_page_queue(parser, errors)
 report_errors(errors)
 # Author: https://classic.scraperwiki.com/profiles/pere/ - Petter Reinholdtsen
 # Source: https://classic.scraperwiki.com/scrapers/postliste-stavanger-universitetssjukehus
+
+# Last run: June 19, 2012, 11:13 p.m.
+# 1 year, 8 months ago

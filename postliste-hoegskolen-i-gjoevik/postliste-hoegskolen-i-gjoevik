@@ -115,3 +115,6 @@ if (now-then).days > 14:
     scraperwiki.scrape(warningURL)
 # Author: https://classic.scraperwiki.com/profiles/hildenae/ - Anders Einar Hilden
 # Source: https://classic.scraperwiki.com/scrapers/postliste-hoegskolen-i-gjoevik
+
+# Last run: March 8, 2014, 10:03 p.m.
+# 23 hours, 13 minutes ago

@@ -40,3 +40,6 @@ print "Starting to fetch journal delivery dates " + str(datetime.datetime.now())
 
 # Author: https://classic.scraperwiki.com/profiles/pere/ - Petter Reinholdtsen
 # Source: https://classic.scraperwiki.com/scrapers/postliste-oep-deliverydates
+
+# Last run: March 9, 2014, 10:04 a.m.
+# 11 hours, 13 minutes ago
