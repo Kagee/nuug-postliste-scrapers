@@ -1,0 +1,12 @@
+Make symlinks for the lib-folder and the folders for 
+https://github.com/Kagee/scraperwiki-python
+and
+https://github.com/Kagee/dumptruck
+in "python -m site --user-site" to use these scripts
+
+In addition you will probably need the following (debian 7.4) packages:
+python-beautifulsoup python-lxml python-cssselect 
+python-virtualenv python-pip python-sqlite sqlite3 
+python-pdftools python-dateutil python-bs4 
+python-mechanize python-yaml poppler-utils 
+python-psycopg2 python-requests
